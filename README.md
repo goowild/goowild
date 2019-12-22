@@ -1,6 +1,6 @@
 # goowild
 
-![image](https://github.com/goowild/goowild.github.io/blob/master/2.jpg)
-![](./image/1.png)
+![image](https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=建厚&step_word=&hs=0&pn=6&spn=0&di=88660&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=3577175633%2C885064737&os=2229938590%2C1190993941&simid=0%2C0&adpicid=0&lpn=0&ln=316&fr=&fmq=1576972981126_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2F4b68c3c28e0a31e3528dff20ef7aefbfc803043e.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bktstktst_z%26e3Bv54AzdH3F6jw1AzdH3Fveddl8mdcAzdH3F&gsm=&rpstart=0&rpnum=0&islist=&querylist=&force=undefined)
+![](https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=建厚&step_word=&hs=0&pn=5&spn=0&di=17160&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=2799420807%2C2852015365&os=2462546153%2C840979434&simid=4166466262%2C595829029&adpicid=0&lpn=0&ln=316&fr=&fmq=1576972981126_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2Fa8df1324f7c28231ef27710a1a6fb46be87f36b5.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bktstktst_z%26e3Bv54AzdH3F6jw1AzdH3Fveddbmcc0AzdH3F&gsm=&rpstart=0&rpnum=0&islist=&querylist=&force=undefined)
 
 
